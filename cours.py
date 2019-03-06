@@ -41,9 +41,10 @@ print("Vous avez choisi le nombre " + a)
 
 #Exercices : 
 #EX 1:
-#Créer un nouveau programme en python nommé addition : demandez un input de des nombres, les additionner et imprimer le résultat.
+#Créer un nouveau programme en python nommé addition (ne pas oublier l'extension .py) : demandez un input de des nombres, les additionner et imprimer le résultat.
 #Ajouter l'addition, la soustraction et la multiplication au programme.
 #EX 2:
+#Créer un nouverau programme nommé welcome (ne pas oublier l'extension .py) :
 #Demander à l'utilisateur son prénom et afficher un message de bienvenue contenant son prénom.
 #EX 3:
 #Demander à l'utilisateur le nombre de parts de pizzas d'une pizza et le nombre de personnes avec qui la partager. Imprimer combien de parts par personnes
