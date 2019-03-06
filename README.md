@@ -1,1 +1,4 @@
-HIS IS MY FIRST REPOSITORY
+This is my first repository
+
+
+With @SDAChess (github.com/SDAChess)
